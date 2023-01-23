@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🧑‍💻 https://efremov.dev
+[efremov.dev](https://efremov.dev)
 
 <!--
 **jhekasoft/jhekasoft** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
